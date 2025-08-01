@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Basics/Front End - Full Stack Development"
+		},
+		{
+			"path": "../../../Basics/Front End - HTML, CSS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Major Project - 1 Music Player (HTML & CSS)"
+	}
+}
